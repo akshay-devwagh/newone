@@ -1,4 +1,5 @@
-import Loginform from './Components/Loginform'
+
+import Registration from './Components/Registration'
 
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
@@ -9,7 +10,8 @@ function App() {
 
   return (
     <>
-      <Loginform />
+      
+      <Registration />
     
       {/* 
       <div>
